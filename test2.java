@@ -5,7 +5,7 @@ class Araba{
     int hiz;
 void bilgileriGoster(){
     System.out.println("Model:"+ model +", renk: "+renk +", yıl: "+yil);
-    System.out.println("github üzerinden ekleme yapıldı.");
+    System.out.println("github degisikligi");
 
 }
 }
