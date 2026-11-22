@@ -2,6 +2,7 @@ class Araba{
     String model;
     String renk;
     int yil;
+    int hiz;
 void bilgileriGoster(){
     System.out.println("Model:"+ model +", renk: "+renk +", yıl: "+yil);
 
