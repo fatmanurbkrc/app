@@ -5,7 +5,9 @@ class Araba{
     int hiz;
 void bilgileriGoster(){
     System.out.println("Model:"+ model +", renk: "+renk +", yıl: "+yil);
+
     System.out.println("bilgisayar degisikligi");
+
 
 }
 }
